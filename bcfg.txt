@@ -1,0 +1,2 @@
+BootTo=rec
+Key2=Value2
