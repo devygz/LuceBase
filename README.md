@@ -2,7 +2,7 @@
 
 LuceBase is a MicroPython-based, kernel-like framework for rapidly building
 firmware for small, resource-constrained devices (targeting the Raspberry Pi
-Pico 2 / RP2040). It handles the parts every device needs: async task
+Pico 2 / RP2350). It handles the parts every device needs: async task
 scheduling, a terminal/CLI, BLE, boot mode management, and signed,
 cloud-driven firmware upgrades, so that building a new device becomes
 "add a daemon," not "build all from scratch."
